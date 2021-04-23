@@ -1,4 +1,4 @@
-# Spring-JPA-RestApi_microservice
+# SpringRestApiMicroservice
 
 Учебный проект, основная задача:
 
